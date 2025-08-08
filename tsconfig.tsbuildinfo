@@ -1,1 +1,1 @@
-{"root":["./src/index.ts","./src/commands/hello/index.ts","./src/commands/hello/world.ts"],"version":"5.9.2"}
+{"root":["./src/index.ts","./src/commands/hello/index.ts","./src/commands/hello/world.ts","./src/commands/weather/current.ts","./src/commands/weather/hour.ts"],"version":"5.9.2"}
